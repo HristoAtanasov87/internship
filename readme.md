@@ -4,7 +4,9 @@ The following are requirements to be able to explore the application
 
 - Personally I used XAMPP stack for the server and MySQL.
 - To be able to view the project download the repo and place the folder 'internship-master' in 'htdocs' in XAMPP installation folder.
-- Then follow this Url http://localhost/internship-master/index.php 
+- In the repo find 'jobs.sql'. Create a new database called 'jobs' and then import the tables from the file 'jobs.sql'.
+- Start Apache server and MySQL from XAMMP stack.
+- Then follow this URL http://localhost/internship-master/index.php 
 
 The following are the capabilities of the application.
 
