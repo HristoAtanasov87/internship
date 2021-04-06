@@ -3,7 +3,7 @@ This project is done as an entry exam for an internship.
 The following are requirements to be able to explore the application
 
 - Personally I used XAMPP stack for the server and MySQL.
-- To be able to view the project download the repo and place the folder internship-master in 'htdocs' in XAMPP installation folder.
+- To be able to view the project download the repo and place the folder 'internship-master' in 'htdocs' in XAMPP installation folder.
 - Then follow this Url http://localhost/internship-master/index.php 
 
 The following are the capabilities of the application.
